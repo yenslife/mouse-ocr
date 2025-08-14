@@ -1,0 +1,12 @@
+[project]
+name = "mourse-ocr"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pillow>=11.3.0",
+    "pyperclip>=1.9.0",
+    "pyscreenshot>=3.1",
+    "pytesseract>=0.3.13",
+]
