@@ -23,3 +23,8 @@ sudo apt install tesseract-ocr-chi-sim  # 簡體中文
 
 根據需要，設定 lang 參數為 'chi_tra' 或 'chi_sim'
 
+## TODOs
+
+- [ ] Demo video
+- [ ] Use ubuntu shortcut key to activate mouse ocr
+- [ ] Installation script
