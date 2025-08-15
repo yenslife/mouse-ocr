@@ -30,7 +30,7 @@ wheels = [
 ]
 
 [[package]]
-name = "mourse-ocr"
+name = "mouse-ocr"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
