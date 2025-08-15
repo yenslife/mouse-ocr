@@ -2,6 +2,8 @@
 
 A simple OCR tool that allows you to select an area of the screen and get the text from it. Only on Ubuntu.
 
+![demo.gif](demo.gif)
+
 ## Installation
 
 Make sure you have uv installed. If not, you can install it with:
@@ -62,6 +64,7 @@ Reload i3wm with `Mod+Shift+r` or restart i3wm.
 
 ## TODOs
 
-- [ ] Demo video
+- [x] Demo video
 - [x] Use ubuntu shortcut key to activate mouse ocr (Ubuntu system api)
 - [x] Installation script
+- [ ] Use Python GUI tool to replace scrot (because scrot will be interrupted by some other programs)
