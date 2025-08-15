@@ -33,7 +33,7 @@ echo "bindsym \$mod+Shift+o exec --no-startup-id mouse-ocr" >> ~/.config/i3/conf
 2. Manual installation
 
 ```bash
-sudo apt install scrot
+sudo apt install scrot zenity
 ```
 
 OCR 辨識，需要安裝以下套件：
